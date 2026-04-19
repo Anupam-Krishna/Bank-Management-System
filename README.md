@@ -1,0 +1,1 @@
+This is the source code for the bank management system which uses MySQL database for storing data. It is split into meaningful modules for the ease of understanding and execution. It includes basic operations of a bank organisation like account creation, account deletion, account details, etc.
